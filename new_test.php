@@ -1,9 +1,1 @@
-<?php 
-testing
-hello 123
-
-testing 12354
-
-testing
-?>
-
+http://johnatten.com/2012/09/08/basic-git-command-line-reference-for-windows-users/#BASH-NAVIGATE-FILE-SYSTEM
