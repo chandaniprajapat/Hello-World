@@ -1,10 +1,10 @@
-<?php
+Khoob<?php
 
 //amazon api
 
-define('AWS_ACCESS_KEY_ID', 'AKIAISP4DXCCZQIV32OQ');
-define('AWS_SECRET_ACCESS_KEY', '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');
-define('AMAZON_ASSOC_TAG', 'htttpignisitco-20');
+define('AWS_ACCESS_KEY_ID', '');
+define('AWS_SECRET_ACCESS_KEY', '');
+define('AMAZON_ASSOC_TAG', '');
 
 function amazon_get_signed_url($searchTerm) {
 $base_url = "http://ecs.amazonaws.com/onca/xml";
