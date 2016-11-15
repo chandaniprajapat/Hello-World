@@ -1,7 +1,7 @@
-Khoob<?php
+<?php
 
 //amazon api
-
+test
 define('AWS_ACCESS_KEY_ID', '');
 define('AWS_SECRET_ACCESS_KEY', '');
 define('AMAZON_ASSOC_TAG', '');
